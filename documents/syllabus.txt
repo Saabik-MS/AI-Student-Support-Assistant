@@ -1,0 +1,137 @@
+AI AND DATA SCIENCE - SYLLABUS INFORMATION
+
+1. Course Overview
+
+Artificial Intelligence and Data Science is an interdisciplinary field
+that combines programming, mathematics, statistics, data analysis,
+machine learning and artificial intelligence.
+
+The curriculum is designed to help students develop theoretical knowledge,
+practical skills and problem-solving ability.
+
+2. Major Learning Areas
+
+Students may study topics related to:
+
+- Python Programming
+- Data Structures
+- Database Management Systems
+- Statistics
+- Probability
+- Data Analytics
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Natural Language Processing
+- Computer Networks
+- Cloud Computing
+- Big Data
+- Data Visualization
+
+3. Programming Skills
+
+Students are encouraged to develop programming skills using languages
+and technologies relevant to their academic curriculum.
+
+Important programming areas include:
+
+- Variables
+- Data types
+- Conditional statements
+- Loops
+- Functions
+- Object-oriented programming
+- File handling
+- Exception handling
+- Libraries and frameworks
+
+4. Machine Learning
+
+Machine Learning focuses on enabling computer systems to learn patterns
+from data.
+
+Important concepts include:
+
+- Supervised learning
+- Unsupervised learning
+- Classification
+- Regression
+- Clustering
+- Training data
+- Testing data
+- Model evaluation
+- Overfitting
+- Underfitting
+
+5. Data Science
+
+Data Science involves collecting, processing, analysing and interpreting
+data to obtain useful information.
+
+Important activities include:
+
+- Data collection
+- Data cleaning
+- Data preprocessing
+- Exploratory data analysis
+- Data visualization
+- Statistical analysis
+- Predictive modelling
+
+6. Artificial Intelligence
+
+Artificial Intelligence involves building systems that perform tasks
+that normally require human-like intelligence.
+
+Common AI areas include:
+
+- Knowledge representation
+- Search
+- Machine learning
+- Natural language processing
+- Computer vision
+- Intelligent agents
+
+7. Database Learning
+
+Students may learn database concepts such as:
+
+- Tables
+- Records
+- Primary keys
+- Foreign keys
+- SQL
+- Queries
+- Database normalization
+- CRUD operations
+
+8. Practical Learning
+
+Students should gain practical experience through:
+
+- Laboratory exercises
+- Programming practice
+- Assignments
+- Mini projects
+- Major projects
+- Case studies
+- Technical presentations
+
+9. Project Skills
+
+Students working on projects may need skills in:
+
+- Problem identification
+- Requirement analysis
+- Data collection
+- Programming
+- Model development
+- Testing
+- Documentation
+- Presentation
+
+10. Learning Outcome
+
+Students should develop technical knowledge, analytical thinking,
+programming ability, problem-solving skills and practical project
+experience.
