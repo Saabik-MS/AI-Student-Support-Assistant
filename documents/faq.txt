@@ -1,0 +1,55 @@
+STUDENT SUPPORT FAQ
+
+Q: What is Artificial Intelligence?
+A: Artificial Intelligence is a field of computer science concerned with
+building systems that can perform tasks associated with human intelligence.
+
+Q: What is Machine Learning?
+A: Machine Learning is a branch of Artificial Intelligence in which systems
+learn patterns from data and use those patterns to make predictions or decisions.
+
+Q: What is Data Science?
+A: Data Science is the process of collecting, processing, analysing and
+interpreting data to obtain useful information and insights.
+
+Q: What programming language is useful for AI and Data Science?
+A: Python is an important programming language commonly used for
+programming, data analysis and machine learning.
+
+Q: What is RAG?
+A: Retrieval-Augmented Generation is a technique in which relevant
+information is retrieved from a knowledge source before an AI model
+generates an answer.
+
+Q: What is a project?
+A: A project is a practical activity in which students identify a problem,
+design a solution, implement it, test it and document the results.
+
+Q: How can students get project guidance?
+A: Students can contact the appropriate department faculty for academic
+project guidance and support.
+
+Q: Where can students find examination information?
+A: Students should refer to the latest official institutional
+announcements and examination information.
+
+Q: Where can students find syllabus information?
+A: Students should refer to the approved syllabus and official
+department or institutional academic documents.
+
+Q: How can students improve their technical skills?
+A: Students can improve technical skills through regular programming
+practice, laboratory work, projects, assignments and self-learning.
+
+Q: What skills are useful for AI and Data Science students?
+A: Useful skills include Python, SQL, statistics, data analysis,
+machine learning, artificial intelligence, problem solving and project
+development.
+
+Q: What should students do when they have an academic doubt?
+A: Students can refer to available academic resources and contact
+appropriate faculty for academic guidance.
+
+Q: What should students do before an examination?
+A: Students should check the latest examination instructions, schedule,
+hall ticket information and required materials.
