@@ -1,0 +1,52 @@
+ACADEMIC SCHEDULE INFORMATION
+
+1. Academic Schedule
+
+An academic schedule contains information about important academic
+activities during a semester.
+
+It may include:
+
+- Semester beginning
+- Semester ending
+- Working days
+- Class activities
+- Internal assessments
+- Assignment periods
+- Laboratory activities
+- Project reviews
+- Semester examinations
+- Holidays
+
+2. Checking the Schedule
+
+Students should regularly check official institutional or department
+announcements for the latest academic schedule.
+
+3. Changes
+
+Academic schedules may change because of institutional decisions,
+examination arrangements or other academic requirements.
+
+Students should follow the latest officially communicated schedule.
+
+4. Assignment Schedule
+
+Assignment submission dates should be followed according to the
+announcements made by the department or institution.
+
+5. Examination Schedule
+
+Students should check official examination announcements for
+examination dates, subjects, venues and related instructions.
+
+6. Project Schedule
+
+Project reviews, presentations and submission dates should be followed
+according to the schedule communicated by the department.
+
+7. Important Note
+
+The AI Student Support Assistant should not invent specific academic
+dates when the current official schedule is not available in the
+knowledge base.
